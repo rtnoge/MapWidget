@@ -1,0 +1,32 @@
+{
+    "AS_Button_d186fc27dad5481e9ac7940d90d96867": {
+        "id": "AS_Button_d186fc27dad5481e9ac7940d90d96867",
+        "type": "ACTION_SEQUENCE",
+        "name": "polyline",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "gdf4c91cb20d4a9784107bd64dc784c8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___fd4688391faf49d0b432a152aab0e492",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form3",
+            "formKUID": "cca61b99c6c245eea14106dcd67dc3a3",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnPolyline\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

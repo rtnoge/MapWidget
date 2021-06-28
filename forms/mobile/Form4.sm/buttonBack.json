@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sea19e60f2454ac4b6589b05b23d8464",
+    "_text_": "Back",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "95%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sb938f98bcc3479a983393da4e80137b"
+    },
+    "displaytext": true,
+    "id": "buttonBack",
+    "ide_onClick": "AS_Button_dfb9149ecc394fe4a223b9212697b88d",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "efbc062800b2414382f3d0af3cd5fcac",
+    "name": "kony.ui.Button",
+    "parent": "Form4",
+    "pf": "Form4",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

@@ -1,0 +1,32 @@
+{
+    "AS_Button_j75c36c7f0004b4daa9d4dce36b6218a": {
+        "id": "AS_Button_j75c36c7f0004b4daa9d4dce36b6218a",
+        "type": "ACTION_SEQUENCE",
+        "name": "callout",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "gdf4c91cb20d4a9784107bd64dc784c8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_gc9983e7111846db8aa97f353ea221d7",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form4",
+            "formKUID": "g2efd5f7789f440fb7c764d40b11f2ae",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnCallout\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

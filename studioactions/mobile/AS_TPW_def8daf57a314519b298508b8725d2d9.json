@@ -1,0 +1,17 @@
+{
+    "AS_TPW_def8daf57a314519b298508b8725d2d9": {
+        "id": "AS_TPW_def8daf57a314519b298508b8725d2d9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "deb46e1a548947d6aacccc49cc5827a3"
+        },
+        "language": "js",
+        "actions": []
+    }
+}
